@@ -1,0 +1,1 @@
+Slowly getting my peanut brain around how to style sites using css.... I hope to strip my projects of all pre-written css and frameworks soon and be able to fully customize my ideas... still a little while away.
